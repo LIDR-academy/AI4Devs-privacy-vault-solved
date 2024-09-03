@@ -57,7 +57,3 @@ curl -X POST http://localhost:3001/deanonymize -H "Content-Type: application/jso
 - Ensure that your MongoDB instance is properly secured and not publicly accessible.
 - Use HTTPS in production to encrypt data in transit.
 - Implement proper access controls and authentication for the API in a production environment.
-
-## License
-
-This project is licensed under the ISC License.
